@@ -6,6 +6,7 @@ from flask import Flask
 from config import BaseConfig
 
 
+
 def create_app():
     # Create Flask server app
     server = Flask(__name__)
