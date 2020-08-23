@@ -35,7 +35,6 @@
     "Makefile": true,
     "gunicorn_conf.py": true,
     "app.db": true,
-    "../dash-KPMG-example-app/__pycache__": true,
     "app/dashapp1/dash_lab.code-workspace": true,
     "app/tlc/pages/__pycache__": true,
     "app/tlc/pages/__init__.py": true,
